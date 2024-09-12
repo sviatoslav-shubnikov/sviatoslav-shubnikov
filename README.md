@@ -3,7 +3,7 @@
 ## О себе
 - 🎓 Студент МГКЦТ
 - 💻 Изучаю:
-    -Python:
+  -Python:
         -Django Rest Framework;
     -JavaScript(typescript):
         (Frontend):
