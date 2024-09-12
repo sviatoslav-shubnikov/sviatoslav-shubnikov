@@ -1,16 +1,26 @@
-## Hi there 👋
+# Привет, я Святослав! 👋
 
-<!--
-**sviatoslav-shubnikov/sviatoslav-shubnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе
+- 🎓 Студент МГКЦТ
+- 💻 Изучаю:
+    -Python:
+        -Django Rest Framework;
+    -JavaScript(typescript):
+        (Frontend):
+        -React/Next Ts;
+        (Backend):
+        -Node js(express);
+        -Nest js;
+- 🌱 Сейчас я работаю над улучшением своих навыков в Git и GitHub
 
-Here are some ideas to get you started:
+## Мои навыки
+- Python
+- Git
+- JavaScript(fullstack->next+node ts)
+- Redis
+- PSQL
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Связаться со мной
+- tg - @LOLKEKCHEBYREK666
+- email: slavik20012008@gmail.com
