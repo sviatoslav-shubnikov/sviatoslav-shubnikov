@@ -2,23 +2,29 @@
 
 ## О себе
 - 🎓 Студент МГКЦТ
-- 💻 Изучаю:
-  -Python:
-        -Django Rest Framework;
-    -JavaScript(typescript):
-        (Frontend):
-        -React/Next Ts;
-        (Backend):
-        -Node js(express);
-        -Nest js;
+- 💻 Изучаю(вокруг да около Web Dev):
+- Python:
+  - Django Rest Framework;
+- JavaScript(typescript):
+- (Frontend):
+  - React/Next Ts;
+- (Backend):
+  - Node js(express js);
+  - Nest js;
 - 🌱 Сейчас я работаю над улучшением своих навыков в Git и GitHub
 
 ## Мои навыки
-- Python
+- Python(Django Rest Framework)
 - Git
-- JavaScript(fullstack->next+node ts)
+- JavaScript(Typescript)
+- Node js
+- Nest js
+- React js
+- Next js
 - Redis
 - PSQL
+- C++
+- C#
   
 
 ## Связаться со мной
