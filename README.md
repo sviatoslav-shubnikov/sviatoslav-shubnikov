@@ -22,6 +22,8 @@
 - React js
 - Next js
 - Redis
+- Celery
+- Portainer
 - PSQL
 - C++
 - C#
