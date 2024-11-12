@@ -30,7 +30,7 @@
 - Java
 - Go Lang(Fiber)
 - Docker
-- PrismaORM
+- PrismaORM(Проект - СкажиМиграциямНет!)
   
 
 ## Связаться со мной
