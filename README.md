@@ -29,7 +29,7 @@
 - C#
 - Java
 - Go Lang(Fiber)
-- Docker
+- Docker + Kubernetes
 - PrismaORM(Проект - СкажиМиграциямНет!)
   
 
