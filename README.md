@@ -36,3 +36,6 @@
 ## Связаться со мной
 - tg - @LOLKEKCHEBYREK666
 - email: slavik20012008@gmail.com
+
+markdown
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
