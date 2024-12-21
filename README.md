@@ -12,7 +12,7 @@ Full-Stack Developer with a passion for engineering robust, scalable, and intuit
 
 ## 📞 To Contact 📨
 - telegramm - @LOLKEKCHEBYREK666
-- email: slavik20012008@gmail.com
+- email: sviatoslavshubnikov@gmail.com
 
 ## Markdown
 
