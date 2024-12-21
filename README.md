@@ -1,19 +1,9 @@
-# Привет, я Святослав! 👋
+# 👋 Sviatoslav Shubnikov! 👋
 
-## О себе
-- 🎓 Студент МГКЦТ
-- 💻 Изучаю(вокруг да около Web Dev):
-- Python:
-  - Django Rest Framework;
-- JavaScript(typescript):
-- (Frontend):
-  - React/Next Ts;
-- (Backend):
-  - Node js(express js);
-  - Nest js;
-- 🌱 Сейчас я работаю за СМЯТАННИК
+## About Me
+Full-Stack Developer with a passion for engineering robust, scalable, and intuitive web applications. Bridging the gap between cutting-edge technology and user experience, I specialize in architecting innovative solutions that are both efficient and elegant. With a deep understanding of software design patterns, system architecture, and modern development practices, I thrive on tackling complex challenges and delivering results that exceed expectations.
   
-## Мои навыки
+## My Tech Stack
 - Python(Django Rest Framework)
 - Git
 - JavaScript(Typescript)
@@ -30,11 +20,11 @@
 - Java
 - Go Lang(Fiber)
 - Docker + Kubernetes
-- PrismaORM(Проект - СкажиМиграциямНет!)
+- PrismaORM
   
 
-## Связаться со мной
-- tg - @LOLKEKCHEBYREK666
+## To Contact
+- telegramm - @LOLKEKCHEBYREK666
 - email: slavik20012008@gmail.com
 
 ## Markdown
