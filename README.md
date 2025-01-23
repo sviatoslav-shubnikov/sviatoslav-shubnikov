@@ -13,5 +13,5 @@ Full-Stack Developer with a passion for engineering robust, scalable, and intuit
 ## 📞 To Contact 📨
 - telegramm - @LOLKEKCHEBYREK666
 - email: sviatoslavshubnikov@gmail.com
-
+- company mail: sovira.it.for.solutions@gmail.com
 
