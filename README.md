@@ -5,10 +5,10 @@ Full-Stack Developer with a passion for engineering robust, scalable, and intuit
   
 ## 💡 My Tech Stack 🔑
 - **Frontend:** Expert in React, Next, Angular, HTML, CSS, and JavaScript/TypeScript.
-- **Backend:** Proficient in Node.js, Express, Nest.js, Python (Django/DRF), Go Lang(Fiber), C#(ASP.NET)
+- **Backend:** Proficient in Node.js, Express, Nest.js, Python (Django/DRF)
 - **Database:** Skilled in MongoDB, MySQL, PostgreSQL, and Redis.
-- **DevOps:** Familiar with Docker, Kubernetes, CI/CD pipelines.
-- **Other Tools:** Git, Webpack, REST/GraphQL APIs, PrismaORM, SWIFT.
+- **DevOps:** Familiar with Docker, Kubernetes.
+- **Other Tools:** Git, Webpack, REST/GraphQL APIs, PrismaORM.
 
 ## 📞 To Contact 📨
 - telegramm - @LOLKEKCHEBYREK666
